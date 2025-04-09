@@ -1,0 +1,78 @@
+To: purwakatre402@gmail.com
+Subject: Password Reset Request
+Headers: From: no-reply@localhost
+Content-Type: text/plain; charset=UTF-8
+
+Message:
+Click the link below to reset your password:
+
+http://localhost/reset_password.php?token=40466e63528c056ae486bbd30cffb24ad8ab01386feb3c5738ee871fea7e1bf1
+
+This link will expire in 1 hour.
+If you didn't request this, please ignore this email.
+
+To: purwakatre402@gmail.com
+Subject: Password Reset Request
+Headers: From: no-reply@localhost
+Content-Type: text/plain; charset=UTF-8
+
+Message:
+Click the link below to reset your password:
+
+http://localhost/reset_password.php?token=1cd09f47ae585b8929182272e451efd8730f8f06f88c77dde53428c69aae5a05
+
+This link will expire in 1 hour.
+If you didn't request this, please ignore this email.
+
+To: purwakatre402@gmail.com
+Subject: Password Reset Request
+Headers: From: no-reply@localhost
+Content-Type: text/plain; charset=UTF-8
+
+Message:
+Click the link below to reset your password:
+
+http://localhost/reset_password.php?token=98636f7f7f4ff1fdd650230b2a48c10ec25fc731cdc15206f182a5e9a28a4833
+
+This link will expire in 1 hour.
+If you didn't request this, please ignore this email.
+
+To: purwakatre402@gmail.com
+Subject: Password Reset Request
+Headers: From: no-reply@localhost
+Content-Type: text/plain; charset=UTF-8
+
+Message:
+Click the link below to reset your password:
+
+http://localhost/reset_password.php?token=284c0a332abaf144862b977d3d5499c1f7a8610c1266f33f3dbd68fa7eff4987
+
+This link will expire in 1 hour.
+If you didn't request this, please ignore this email.
+
+To: purwakatre402@gmail.com
+Subject: Password Reset Request
+Headers: From: no-reply@localhost
+Content-Type: text/plain; charset=UTF-8
+
+Message:
+Click the link below to reset your password:
+
+http://localhost/reset_password.php?token=81564e4de88dd36e35785719bb78cf2b1a5adb9d88af9242f1e1a0c499d8e222
+
+This link will expire in 1 hour.
+If you didn't request this, please ignore this email.
+
+To: purwakatre402@gmail.com
+Subject: Password Reset Request
+Headers: From: no-reply@localhost
+Content-Type: text/plain; charset=UTF-8
+
+Message:
+Click the link below to reset your password:
+
+http://localhost/reset_password.php?token=bc4ebf001a2b53bd7271459fcf7ae331afa8a399eec811b892038cf737eb964a
+
+This link will expire in 1 hour.
+If you didn't request this, please ignore this email.
+
